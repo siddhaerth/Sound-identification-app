@@ -1,0 +1,35 @@
+body{
+    font-family: 'Grape Nuts', cursive;
+    background-color: yellowgreen;
+}
+.header_div{
+   background: yellow; 
+   color: blueviolet;
+}
+.header_div p{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: blueviolet;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold; 
+}
+.main_div button{
+    font-family: 'Grape Nuts', cursive;
+    margin-top: 30px;
+    width: 130px;
+ font-weight: bolder;
+ letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: blueviolet;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: yellow;
+    line-height: 3;
+    text-align: center ;
+    text-shadow: 5px 5px 5px yellowgreen;
+
+}
